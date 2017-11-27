@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+var PropTypes = require('prop-types');
 import {
   Modal,
   Platform,
